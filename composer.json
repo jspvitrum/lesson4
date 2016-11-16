@@ -1,0 +1,12 @@
+{
+  "require": {
+    "php": ">=5.5.0",
+    "fzaninotto/faker":"v1.6.0",
+    "ramsey/uuid": "^3.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
